@@ -1,5 +1,5 @@
 {
-    "name": "myprysm/elasticsearch-module",
+    "name": "EagleEyeJohn/elasticsearch-module",
     "description": "Elasticsearch Module for Zend Framework",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -7,6 +7,7 @@
         "zf2",
         "elasticsearch"
     ],
+    "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.9",
