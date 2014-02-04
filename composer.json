@@ -10,7 +10,7 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.9",
+        "php": ">=5.3",
         "zendframework/zendframework": "2.2.*",
         "elasticsearch/elasticsearch": "~0.4"
     },
