@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.3.9",
         "zendframework/zendframework": "2.*",
-        "elasticsearch/elasticsearch": "~0.4"
+        "elasticsearch/elasticsearch": "~1.0"
     },
     "autoload": {
         "psr-0": {
