@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.9",
-        "zendframework/zendframework": "2.2.*",
+        "zendframework/zendframework": "2.*",
         "elasticsearch/elasticsearch": "~0.4"
     },
     "autoload": {
